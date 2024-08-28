@@ -1,0 +1,23 @@
+div{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+}
+.valo{
+    position: relative;
+    top: 50px;
+    left: 30px;
+}
+.alo{
+    background-color: aquamarine;
+}
+.main{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    margin-left: -10px;
+    margin-top: -10px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
